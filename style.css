@@ -1,0 +1,24 @@
+input {
+    border: 1px solid rgba(31, 28, 28, 0.877);
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    outline: none;
+}
+
+input:focus {
+    box-shadow: inset 0 0 10px 0 rgba(155, 146, 236, 0.5);
+    border: 1px solid rgba(111, 98, 233, 1);
+}
+
+button{
+    background: rgb(38, 238, 105);
+    border: 0.5px solid rgb(5, 148, 53);;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+button:active{
+    background: rgb(5, 208, 105);
+}
