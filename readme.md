@@ -1,3 +1,5 @@
-## git hello git
+## Hello Git
 
 ## git add readme feature
+
+## Yo, Jhonny Here
